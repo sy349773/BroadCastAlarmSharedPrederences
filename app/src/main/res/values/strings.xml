@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BroadCastAlarmSharedPrederences</string>
+    <string name="late_notification">Late notification</string>
+    <string name="stop_notification">Stop Notification</string>
+    <string name="notification">Notification</string>
+    <string name="settings">Settings</string>
+    <string name="set">Switch</string>
+    <string name="updatesettings">UpdateSettings</string>
+    <string name="warning_message">Warning Message</string>
+    <string name="make_it_rain">Make It Rain!</string>
+</resources>

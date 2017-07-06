@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="notification_pref"
+        android:title="Warning Notification"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="make_it_Rain"
+        android:title="Make It Rain"
+        android:defaultValue="false" />
+
+</PreferenceScreen>
